@@ -1,4 +1,4 @@
-# Stochastic-Processes
+# Stochastic Processes
 This article should deliver a bright idea of the following:
 - Naïve Bayes Probabilistic Classifier/Posterior classification probabilities
 - Bayes classifier assuming Gaussian distributions
